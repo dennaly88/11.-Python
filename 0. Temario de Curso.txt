@@ -1,0 +1,47 @@
+#________________________________________________#
+#________________________________________________#
+#  DANNY JOSE JIMENEZ GUTIERREZ                  #
+#  TELEFONO :0424-281-44-55                      #
+#  CORREO : DENNALY88@GMAIL.COM                  #
+#  INGENIERO EN INFORMÁTICA                      #
+#________________________________________________#
+#________________________________________________#
+
+📋 Material Cubierto
+
+☑️ 1. Básico 
+
+☑️ 2. Condicionales Simples
+
+☑️ 3. Condicionales Dobles
+
+☑️ 4. Condicionales Múltiples
+
+☑️ 5. Switcher
+
+☑️ 6.  Ciclo Para
+
+☑️ 7. Ciclo Mientras
+
+☑️ 8. Ciclo Repetir
+
+☑️ 9. Arreglos
+
+☑️ 10. Matrices
+
+☑️ 11. Funciones
+
+☑️ 12. Clases 
+
+☑️ 13. POO 
+
+☑️ 14. Conexion a bases de datos 
+
+☑️ 15. CRUD
+
+
+#_________________________________________________#
+#  CUA , ESTADO MIRANDA 2026                      #
+#  CURSO DE  PYTHON                               #
+#  DEV DEVELOPMENT                                #
+#_________________________________________________#
